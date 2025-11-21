@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: d7a26c3f52b41f940a2233aa4f511f8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6039726039458082797
+    second: sprite sheet equipe rocket_0
+  - first:
+      213: 2480969067456855423
+    second: sprite sheet equipe rocket_1
+  - first:
+      213: 2796651485534672377
+    second: sprite sheet equipe rocket_2
+  - first:
+      213: -5212585572392871003
+    second: sprite sheet equipe rocket_3
+  - first:
+      213: -4145583040729201014
+    second: sprite sheet equipe rocket_4
+  - first:
+      213: 173507099273344325
+    second: sprite sheet equipe rocket_5
+  - first:
+      213: -7396085036336929913
+    second: sprite sheet equipe rocket_6
+  - first:
+      213: 3676751461659797438
+    second: sprite sheet equipe rocket_7
+  - first:
+      213: -1088432639504773104
+    second: sprite sheet equipe rocket_8
+  - first:
+      213: -1315026963885753252
+    second: sprite sheet equipe rocket_9
+  - first:
+      213: -1164557247975379579
+    second: sprite sheet equipe rocket_10
+  - first:
+      213: -5131783820014651888
+    second: sprite sheet equipe rocket_11
+  - first:
+      213: 673140622671251766
+    second: sprite sheet equipe rocket_12
+  - first:
+      213: 4620151763107057549
+    second: sprite sheet equipe rocket_13
+  - first:
+      213: -7588938348758424045
+    second: sprite sheet equipe rocket_14
+  - first:
+      213: -7768639483073570357
+    second: sprite sheet equipe rocket_15
+  - first:
+      213: 6418719917026646091
+    second: sprite sheet equipe rocket_16
+  - first:
+      213: 7384491046702031427
+    second: sprite sheet equipe rocket_17
+  - first:
+      213: -7791840146898927133
+    second: sprite sheet equipe rocket_18
+  - first:
+      213: -3160780466839870581
+    second: sprite sheet equipe rocket_19
+  - first:
+      213: -6795641807885897749
+    second: sprite sheet equipe rocket_20
+  - first:
+      213: -4729957580980506580
+    second: sprite sheet equipe rocket_21
+  - first:
+      213: 4505797061625219093
+    second: sprite sheet equipe rocket_22
+  - first:
+      213: -2012803762074306169
+    second: sprite sheet equipe rocket_23
+  - first:
+      213: -1191661290553896245
+    second: sprite sheet equipe rocket_24
+  - first:
+      213: -7011650498224571472
+    second: sprite sheet equipe rocket_25
+  - first:
+      213: 8454117680044794992
+    second: sprite sheet equipe rocket_26
+  - first:
+      213: -4998019521145122594
+    second: sprite sheet equipe rocket_27
+  - first:
+      213: 3008072282923854127
+    second: sprite sheet equipe rocket_28
+  - first:
+      213: -4431050489763147878
+    second: sprite sheet equipe rocket_29
+  - first:
+      213: 6728050924632000554
+    second: sprite sheet equipe rocket_30
+  - first:
+      213: 7755002928944886436
+    second: sprite sheet equipe rocket_31
+  - first:
+      213: 1050401669221733729
+    second: sprite sheet equipe rocket_32
+  - first:
+      213: -1012734643288548350
+    second: sprite sheet equipe rocket_33
+  - first:
+      213: -5980596395727486363
+    second: sprite sheet equipe rocket_34
+  - first:
+      213: -2556971587019912877
+    second: sprite sheet equipe rocket_35
+  - first:
+      213: 6618403498854145514
+    second: sprite sheet equipe rocket_36
+  - first:
+      213: 7141085586677876473
+    second: sprite sheet equipe rocket_37
+  - first:
+      213: 6853402111816602267
+    second: sprite sheet equipe rocket_38
+  - first:
+      213: -3970401983358580756
+    second: sprite sheet equipe rocket_39
+  - first:
+      213: 8061955656286798309
+    second: sprite sheet equipe rocket_40
+  - first:
+      213: 8760015259130354752
+    second: sprite sheet equipe rocket_41
+  - first:
+      213: 8122623184423275694
+    second: sprite sheet equipe rocket_42
+  - first:
+      213: -8076481481193301951
+    second: sprite sheet equipe rocket_43
+  - first:
+      213: 2384889736521490181
+    second: sprite sheet equipe rocket_44
+  - first:
+      213: 3751789342595003819
+    second: sprite sheet equipe rocket_45
+  - first:
+      213: 7129790636722416220
+    second: sprite sheet equipe rocket_46
+  - first:
+      213: -233539679917886235
+    second: sprite sheet equipe rocket_47
+  - first:
+      213: 7146830259237977448
+    second: sprite sheet equipe rocket_48
+  - first:
+      213: 7756559471652723480
+    second: sprite sheet equipe rocket_49
+  - first:
+      213: 8662959922482568570
+    second: sprite sheet equipe rocket_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 316
+        width: 1
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3109c6dba259e2ca0800000000000000
+      internalID: -6039726039458082797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 315
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d7f7cd83c2e6220800000000000000
+      internalID: 2480969067456855423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 191
+        width: 70
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5dcd375b3bfc620800000000000000
+      internalID: 2796651485534672377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab52341a0d29a7b0800000000000000
+      internalID: -5212585572392871003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 187
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86c37e403ee776c0800000000000000
+      internalID: -4145583040729201014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 188
+        width: 3
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545323a99cb686200800000000000000
+      internalID: 173507099273344325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 189
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7832e8878d3db5990800000000000000
+      internalID: -7396085036336929913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 198
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb761af59f1760330800000000000000
+      internalID: 3676751461659797438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 193
+        width: 4
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0109068f74c15e0f0800000000000000
+      internalID: -1088432639504773104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_9
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c778391f510cde0800000000000000
+      internalID: -1315026963885753252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 186
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d22d16a59a6dfe0800000000000000
+      internalID: -1164557247975379579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 145
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016fde71ecd38c8b0800000000000000
+      internalID: -5131783820014651888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 143
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639843274d9775900800000000000000
+      internalID: 673140622671251766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 145
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f0468cc831e1040800000000000000
+      internalID: 4620151763107057549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 143
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3162aeb97ccaea690800000000000000
+      internalID: -7588938348758424045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc95357dc8f303490800000000000000
+      internalID: -7768639483073570357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b481917b1cfd31950800000000000000
+      internalID: 6418719917026646091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 140
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3422ab57b7bfa7660800000000000000
+      internalID: 7384491046702031427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e146795ba2ddd390800000000000000
+      internalID: -7791840146898927133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 141
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83240579e6a224d0800000000000000
+      internalID: -3160780466839870581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 143
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befea24d7c701b1a0800000000000000
+      internalID: -6795641807885897749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 139
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20bdf6f3a0db5eb0800000000000000
+      internalID: -4729957580980506580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 141
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5188b280e8ec78e30800000000000000
+      internalID: 4505797061625219093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789bdf684a51114e0800000000000000
+      internalID: -2012803762074306169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc293f3be5e567fe0800000000000000
+      internalID: -1191661290553896245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl8
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb322c650d91be90800000000000000
+      internalID: -7011650498224571472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl9
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 97
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0746b68fc3f035570800000000000000
+      internalID: 8454117680044794992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed05da5e9b773aab0800000000000000
+      internalID: -4998019521145122594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 93
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29ef5acdc1deb920800000000000000
+      internalID: 3008072282923854127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 93
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fc8d76e0fb182c0800000000000000
+      internalID: -4431050489763147878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28cd615ba6de5d50800000000000000
+      internalID: 6728050924632000554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 94
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2bfdb731e4f9b60800000000000000
+      internalID: 7755002928944886436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 101
+        width: 3
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165507db0c6c39e00800000000000000
+      internalID: 1050401669221733729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 94
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20cdd07253b02f1f0800000000000000
+      internalID: -1012734643288548350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5628eafb347a00da0800000000000000
+      internalID: -5980596395727486363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35949e693efc38cd0800000000000000
+      internalID: -2556971587019912877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 49
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed57699aea49db50800000000000000
+      internalID: 6618403498854145514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 49
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6c898818b3a1360800000000000000
+      internalID: 7141085586677876473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 49
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b929db9e8ec2c1f50800000000000000
+      internalID: 6853402111816602267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7c766ae6c46e8c0800000000000000
+      internalID: -3970401983358580756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49
+        width: 3
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e10def84f1d1ef60800000000000000
+      internalID: 8061955656286798309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 46
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c57733773d19970800000000000000
+      internalID: 8760015259130354752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacc6ef20ca59b070800000000000000
+      internalID: 8122623184423275694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 45
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148d37642e29aef80800000000000000
+      internalID: -8076481481193301951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_44
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 49
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f96d56494d81120800000000000000
+      internalID: 2384889736521490181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 44
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5b87d7788011430800000000000000
+      internalID: 3751789342595003819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 46
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5aeeb01fca12f260800000000000000
+      internalID: 7129790636722416220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4398106ec42ccf0800000000000000
+      internalID: -233539679917886235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d74e75144ae2360800000000000000
+      internalID: 7146830259237977448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl16
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b5d035eb5d4ab60800000000000000
+      internalID: 7756559471652723480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite sheet equipe rocket_girl17
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd403b624093870800000000000000
+      internalID: 8662959922482568570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2f671e3d219fdd84081837196071a8fd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprite sheet equipe rocket_0: -6039726039458082797
+      sprite sheet equipe rocket_1: 2480969067456855423
+      sprite sheet equipe rocket_10: -1164557247975379579
+      sprite sheet equipe rocket_15: -7768639483073570357
+      sprite sheet equipe rocket_16: 6418719917026646091
+      sprite sheet equipe rocket_17: 7384491046702031427
+      sprite sheet equipe rocket_18: -7791840146898927133
+      sprite sheet equipe rocket_19: -3160780466839870581
+      sprite sheet equipe rocket_20: -6795641807885897749
+      sprite sheet equipe rocket_21: -4729957580980506580
+      sprite sheet equipe rocket_22: 4505797061625219093
+      sprite sheet equipe rocket_27: -4998019521145122594
+      sprite sheet equipe rocket_28: 3008072282923854127
+      sprite sheet equipe rocket_29: -4431050489763147878
+      sprite sheet equipe rocket_3: -5212585572392871003
+      sprite sheet equipe rocket_30: 6728050924632000554
+      sprite sheet equipe rocket_31: 7755002928944886436
+      sprite sheet equipe rocket_32: 1050401669221733729
+      sprite sheet equipe rocket_33: -1012734643288548350
+      sprite sheet equipe rocket_34: -5980596395727486363
+      sprite sheet equipe rocket_39: -3970401983358580756
+      sprite sheet equipe rocket_4: -4145583040729201014
+      sprite sheet equipe rocket_40: 8061955656286798309
+      sprite sheet equipe rocket_41: 8760015259130354752
+      sprite sheet equipe rocket_42: 8122623184423275694
+      sprite sheet equipe rocket_43: -8076481481193301951
+      sprite sheet equipe rocket_44: 2384889736521490181
+      sprite sheet equipe rocket_45: 3751789342595003819
+      sprite sheet equipe rocket_46: 7129790636722416220
+      sprite sheet equipe rocket_5: 173507099273344325
+      sprite sheet equipe rocket_6: -7396085036336929913
+      sprite sheet equipe rocket_7: 3676751461659797438
+      sprite sheet equipe rocket_8: -1088432639504773104
+      sprite sheet equipe rocket_9: -1315026963885753252
+      sprite sheet equipe rocket_girl1: 2796651485534672377
+      sprite sheet equipe rocket_girl10: -2556971587019912877
+      sprite sheet equipe rocket_girl11: 6618403498854145514
+      sprite sheet equipe rocket_girl12: 7141085586677876473
+      sprite sheet equipe rocket_girl13: 6853402111816602267
+      sprite sheet equipe rocket_girl14: -233539679917886235
+      sprite sheet equipe rocket_girl15: 7146830259237977448
+      sprite sheet equipe rocket_girl16: 7756559471652723480
+      sprite sheet equipe rocket_girl17: 8662959922482568570
+      sprite sheet equipe rocket_girl2: -5131783820014651888
+      sprite sheet equipe rocket_girl3: 673140622671251766
+      sprite sheet equipe rocket_girl4: 4620151763107057549
+      sprite sheet equipe rocket_girl5: -7588938348758424045
+      sprite sheet equipe rocket_girl6: -2012803762074306169
+      sprite sheet equipe rocket_girl7: -1191661290553896245
+      sprite sheet equipe rocket_girl8: -7011650498224571472
+      sprite sheet equipe rocket_girl9: 8454117680044794992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
