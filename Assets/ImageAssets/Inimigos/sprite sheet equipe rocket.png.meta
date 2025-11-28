@@ -250,13 +250,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_0
+      name: girl2
       rect:
         serializedVersion: 2
-        x: 22
-        y: 316
-        width: 1
-        height: 3
+        x: 0
+        y: 144
+        width: 29
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -275,7 +275,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_1
       rect:
         serializedVersion: 2
-        x: 145
+        x: 125
         y: 315
         width: 1
         height: 1
@@ -294,12 +294,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl1
+      name: girl1
       rect:
         serializedVersion: 2
-        x: 289
+        x: 12
         y: 191
-        width: 70
+        width: 114
         height: 122
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -319,13 +319,13 @@ TextureImporter:
       name: sprite sheet equipe rocket_3
       rect:
         serializedVersion: 2
-        x: 1
-        y: 190
+        x: 0
+        y: 234
         width: 1
         height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -338,13 +338,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_4
+      name: girl3
       rect:
         serializedVersion: 2
         x: 31
-        y: 187
-        width: 1
-        height: 1
+        y: 143
+        width: 30
+        height: 45
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,13 +360,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_5
+      name: girl4
       rect:
         serializedVersion: 2
-        x: 65
-        y: 188
-        width: 3
-        height: 1
+        x: 63
+        y: 144
+        width: 30
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,13 +382,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_6
+      name: girl5
       rect:
         serializedVersion: 2
-        x: 97
-        y: 189
-        width: 1
-        height: 1
+        x: 95
+        y: 143
+        width: 29
+        height: 47
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -407,9 +407,9 @@ TextureImporter:
       name: sprite sheet equipe rocket_7
       rect:
         serializedVersion: 2
-        x: 129
+        x: 125
         y: 198
-        width: 2
+        width: 1
         height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -429,9 +429,9 @@ TextureImporter:
       name: sprite sheet equipe rocket_8
       rect:
         serializedVersion: 2
-        x: 159
+        x: 125
         y: 193
-        width: 4
+        width: 1
         height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -451,7 +451,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_9
       rect:
         serializedVersion: 2
-        x: 194
+        x: 125
         y: 194
         width: 1
         height: 1
@@ -473,7 +473,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_10
       rect:
         serializedVersion: 2
-        x: 223
+        x: 125
         y: 186
         width: 1
         height: 1
@@ -495,10 +495,10 @@ TextureImporter:
       name: sprite sheet equipe rocket_girl2
       rect:
         serializedVersion: 2
-        x: 257
-        y: 145
-        width: 30
-        height: 42
+        x: 91
+        y: 189
+        width: 1
+        height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -514,12 +514,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl3
+      name: girl6
       rect:
         serializedVersion: 2
-        x: 289
-        y: 143
-        width: 30
+        x: 0
+        y: 97
+        width: 29
         height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -536,13 +536,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl4
+      name: girl7
       rect:
         serializedVersion: 2
-        x: 321
-        y: 145
+        x: 31
+        y: 96
         width: 30
-        height: 42
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -558,11 +558,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl5
+      name: girl8
       rect:
         serializedVersion: 2
-        x: 353
-        y: 143
+        x: 63
+        y: 97
         width: 30
         height: 42
       alignment: 0
@@ -583,8 +583,8 @@ TextureImporter:
       name: sprite sheet equipe rocket_15
       rect:
         serializedVersion: 2
-        x: 3
-        y: 143
+        x: 16
+        y: 141
         width: 1
         height: 1
       alignment: 0
@@ -605,8 +605,8 @@ TextureImporter:
       name: sprite sheet equipe rocket_16
       rect:
         serializedVersion: 2
-        x: 34
-        y: 136
+        x: 26
+        y: 141
         width: 1
         height: 1
       alignment: 0
@@ -693,7 +693,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_20
       rect:
         serializedVersion: 2
-        x: 153
+        x: 125
         y: 143
         width: 1
         height: 1
@@ -715,7 +715,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_21
       rect:
         serializedVersion: 2
-        x: 193
+        x: 125
         y: 139
         width: 1
         height: 1
@@ -737,7 +737,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_22
       rect:
         serializedVersion: 2
-        x: 225
+        x: 125
         y: 141
         width: 1
         height: 1
@@ -756,12 +756,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl6
+      name: girl10
       rect:
         serializedVersion: 2
-        x: 257
-        y: 97
-        width: 30
+        x: 0
+        y: 49
+        width: 29
         height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -778,10 +778,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl7
+      name: girl9
       rect:
         serializedVersion: 2
-        x: 289
+        x: 95
         y: 97
         width: 30
         height: 40
@@ -800,11 +800,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl8
+      name: girl12
       rect:
         serializedVersion: 2
-        x: 321
-        y: 97
+        x: 63
+        y: 49
         width: 30
         height: 42
       alignment: 0
@@ -822,11 +822,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl9
+      name: girl11
       rect:
         serializedVersion: 2
-        x: 353
-        y: 97
+        x: 31
+        y: 49
         width: 30
         height: 40
       alignment: 0
@@ -847,13 +847,13 @@ TextureImporter:
       name: sprite sheet equipe rocket_27
       rect:
         serializedVersion: 2
-        x: 3
-        y: 95
+        x: 0
+        y: 92
         width: 1
         height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
@@ -917,8 +917,8 @@ TextureImporter:
         y: 95
         width: 1
         height: 1
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5000076, y: 0.45896912}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -935,7 +935,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_31
       rect:
         serializedVersion: 2
-        x: 130
+        x: 125
         y: 94
         width: 1
         height: 1
@@ -957,9 +957,9 @@ TextureImporter:
       name: sprite sheet equipe rocket_32
       rect:
         serializedVersion: 2
-        x: 158
-        y: 101
-        width: 3
+        x: 118
+        y: 94
+        width: 1
         height: 2
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -979,7 +979,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_33
       rect:
         serializedVersion: 2
-        x: 195
+        x: 125
         y: 94
         width: 1
         height: 1
@@ -1001,7 +1001,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_34
       rect:
         serializedVersion: 2
-        x: 226
+        x: 125
         y: 96
         width: 1
         height: 1
@@ -1020,13 +1020,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl10
+      name: girl14
       rect:
         serializedVersion: 2
-        x: 257
-        y: 49
-        width: 30
-        height: 42
+        x: 0
+        y: 1
+        width: 29
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,13 +1042,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl11
+      name: girl16
       rect:
         serializedVersion: 2
-        x: 289
-        y: 49
+        x: 63
+        y: 1
         width: 30
-        height: 40
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1064,13 +1064,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl12
+      name: girl13
       rect:
         serializedVersion: 2
-        x: 321
+        x: 95
         y: 49
         width: 30
-        height: 42
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1086,13 +1086,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl13
+      name: girl15
       rect:
         serializedVersion: 2
-        x: 353
-        y: 49
+        x: 31
+        y: 0
         width: 30
-        height: 40
+        height: 41
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1133,9 +1133,9 @@ TextureImporter:
       name: sprite sheet equipe rocket_40
       rect:
         serializedVersion: 2
-        x: 33
-        y: 49
-        width: 3
+        x: 30
+        y: 46
+        width: 1
         height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1221,7 +1221,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_44
       rect:
         serializedVersion: 2
-        x: 155
+        x: 125
         y: 49
         width: 1
         height: 1
@@ -1243,7 +1243,7 @@ TextureImporter:
       name: sprite sheet equipe rocket_45
       rect:
         serializedVersion: 2
-        x: 189
+        x: 125
         y: 44
         width: 1
         height: 1
@@ -1265,10 +1265,10 @@ TextureImporter:
       name: sprite sheet equipe rocket_46
       rect:
         serializedVersion: 2
-        x: 221
-        y: 46
-        width: 2
-        height: 2
+        x: 114
+        y: 47
+        width: 1
+        height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1287,10 +1287,10 @@ TextureImporter:
       name: sprite sheet equipe rocket_girl14
       rect:
         serializedVersion: 2
-        x: 257
-        y: 1
-        width: 30
-        height: 42
+        x: 114
+        y: 43
+        width: 1
+        height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1309,10 +1309,10 @@ TextureImporter:
       name: sprite sheet equipe rocket_girl15
       rect:
         serializedVersion: 2
-        x: 289
-        y: 0
-        width: 30
-        height: 41
+        x: 103
+        y: 46
+        width: 1
+        height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1328,13 +1328,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite sheet equipe rocket_girl16
+      name: girl17
       rect:
         serializedVersion: 2
-        x: 321
-        y: 1
+        x: 95
+        y: 0
         width: 30
-        height: 42
+        height: 40
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1353,10 +1353,10 @@ TextureImporter:
       name: sprite sheet equipe rocket_girl17
       rect:
         serializedVersion: 2
-        x: 353
-        y: 0
-        width: 30
-        height: 41
+        x: 110
+        y: 45
+        width: 2
+        height: 1
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1385,7 +1385,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sprite sheet equipe rocket_0: -6039726039458082797
+      girl1: 2796651485534672377
+      girl10: -2012803762074306169
+      girl11: 8454117680044794992
+      girl12: -7011650498224571472
+      girl13: 7141085586677876473
+      girl14: -2556971587019912877
+      girl15: 6853402111816602267
+      girl16: 6618403498854145514
+      girl17: 7756559471652723480
+      girl2: -6039726039458082797
+      girl3: -4145583040729201014
+      girl4: 173507099273344325
+      girl5: -7396085036336929913
+      girl6: 673140622671251766
+      girl7: 4620151763107057549
+      girl8: -7588938348758424045
+      girl9: -1191661290553896245
       sprite sheet equipe rocket_1: 2480969067456855423
       sprite sheet equipe rocket_10: -1164557247975379579
       sprite sheet equipe rocket_15: -7768639483073570357
@@ -1406,7 +1422,6 @@ TextureImporter:
       sprite sheet equipe rocket_33: -1012734643288548350
       sprite sheet equipe rocket_34: -5980596395727486363
       sprite sheet equipe rocket_39: -3970401983358580756
-      sprite sheet equipe rocket_4: -4145583040729201014
       sprite sheet equipe rocket_40: 8061955656286798309
       sprite sheet equipe rocket_41: 8760015259130354752
       sprite sheet equipe rocket_42: 8122623184423275694
@@ -1414,28 +1429,13 @@ TextureImporter:
       sprite sheet equipe rocket_44: 2384889736521490181
       sprite sheet equipe rocket_45: 3751789342595003819
       sprite sheet equipe rocket_46: 7129790636722416220
-      sprite sheet equipe rocket_5: 173507099273344325
-      sprite sheet equipe rocket_6: -7396085036336929913
       sprite sheet equipe rocket_7: 3676751461659797438
       sprite sheet equipe rocket_8: -1088432639504773104
       sprite sheet equipe rocket_9: -1315026963885753252
-      sprite sheet equipe rocket_girl1: 2796651485534672377
-      sprite sheet equipe rocket_girl10: -2556971587019912877
-      sprite sheet equipe rocket_girl11: 6618403498854145514
-      sprite sheet equipe rocket_girl12: 7141085586677876473
-      sprite sheet equipe rocket_girl13: 6853402111816602267
       sprite sheet equipe rocket_girl14: -233539679917886235
       sprite sheet equipe rocket_girl15: 7146830259237977448
-      sprite sheet equipe rocket_girl16: 7756559471652723480
       sprite sheet equipe rocket_girl17: 8662959922482568570
       sprite sheet equipe rocket_girl2: -5131783820014651888
-      sprite sheet equipe rocket_girl3: 673140622671251766
-      sprite sheet equipe rocket_girl4: 4620151763107057549
-      sprite sheet equipe rocket_girl5: -7588938348758424045
-      sprite sheet equipe rocket_girl6: -2012803762074306169
-      sprite sheet equipe rocket_girl7: -1191661290553896245
-      sprite sheet equipe rocket_girl8: -7011650498224571472
-      sprite sheet equipe rocket_girl9: 8454117680044794992
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
